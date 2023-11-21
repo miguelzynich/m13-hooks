@@ -97,7 +97,19 @@ button:hover {
   }
 
   #form-account, #form-product {
-    height: 430px;
+    height: 420px;
+    width: 600px;
     margin: 0;
   }
+}
+
+#forms {
+  display: flex;
+  justify-content: space-between;
+  gap: 4rem;
+}
+
+#form-account,
+#form-product {
+  width: 100%; 
 }

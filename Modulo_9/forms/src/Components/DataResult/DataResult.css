@@ -1,0 +1,34 @@
+#data-result {
+    padding: 1rem;
+    margin-top: 20px;
+    border: 1px solid #ddd;
+}
+
+.data {
+    padding: 1rem;
+}
+
+.sort-buttons button{
+    margin: 1rem;
+}
+
+.name, .email {
+    max-width: 100%;
+    word-wrap: break-word;
+    text-align: center;
+}
+
+#data-result p {
+    font-style: bold;
+    align-items: center;
+    color: #555;
+  }
+
+  #data-result p.product {
+    font-style: bold;
+    justify-content: center;
+    align-items: center;
+    color: #555;
+  }
+
+  
